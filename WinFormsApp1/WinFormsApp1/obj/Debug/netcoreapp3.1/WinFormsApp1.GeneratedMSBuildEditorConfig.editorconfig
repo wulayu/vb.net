@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = WinFormsApp1.Form1
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = WinFormsApp1
+build_property.ProjectDir = D:\yun\北航\大三1\计算机软件基础\vb.net--cfy\WinFormsApp1\WinFormsApp1\
